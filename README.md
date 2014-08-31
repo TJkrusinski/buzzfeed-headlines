@@ -2,6 +2,12 @@
 
 Get a bunch of the most recent headlines from buzzfeed.com.
 
+## Installation
+
+```bash
+$ npm install buzzfeed-headlines
+```
+
 ## Usage
 
 ```javascript
