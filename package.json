@@ -1,0 +1,30 @@
+{
+  "name": "buzzfeed-headlines",
+  "version": "1.0.0",
+  "description": "Scrape titles of articles from buzz feed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TJkrusinski/buzzfeed-headlines.git"
+  },
+  "keywords": [
+    "buzz",
+    "feed",
+    "scraper"
+  ],
+  "author": "TJ Krusinski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TJkrusinski/buzzfeed-headlines/issues"
+  },
+  "homepage": "https://github.com/TJkrusinski/buzzfeed-headlines",
+  "dependencies": {
+    "jsdom": "^1.0.0-pre.5"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1"
+  }
+}
