@@ -1,4 +1,4 @@
-## buzz feed-headlines
+## buzzfeed-headlines
 
 Get a bunch of the most recent headlines from buzzfeed.com.
 
