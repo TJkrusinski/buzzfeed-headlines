@@ -1,6 +1,6 @@
 {
   "name": "buzzfeed-headlines",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Scrape titles of articles from buzz feed.",
   "main": "index.js",
   "scripts": {
